@@ -1,6 +1,6 @@
 # obstacle_avoidance_drone
 
-Simulation of PX4 drone with Obstacle Avoidance in Gazebo.
+Simulation of PX4 drone in Gazebo for 3D mapping and obstacle avoidance by using PX4 computer vision algorithms in ROS node, Octomap and QR Ground Control.
 
 This contains the maze model and the edited launch file used in the simulation.
 
